@@ -129,6 +129,10 @@ git branch
 
 git branch <Branch Name>
 
+git switch <BranchName> - works same as checkout
+
+git switch -c <BrnachName> - Wroks same as -b Chekcout
+
 
 git checkout b1
 git branch
