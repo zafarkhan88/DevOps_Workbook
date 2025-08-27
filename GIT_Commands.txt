@@ -127,7 +127,7 @@ git reset --hart <commit_id>
 GIT BRANCHES
 git branch 
 
-git branch b1 master
+git branch <Branch Name> master
 
 
 git checkout b1
@@ -176,5 +176,6 @@ ls -la
 git remote -v
 git fetch origin
 git pull origin
+
 
 
